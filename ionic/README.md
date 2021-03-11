@@ -1,5 +1,6 @@
 # Segmanta Ionic Example
 
+![alt text](https://github.com/segmanta/examples/blob/master/assets/PreviewAnimation.gif?raw=true)
 ## Get Started
 
 1. Clone the repo
