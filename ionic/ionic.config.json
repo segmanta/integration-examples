@@ -1,0 +1,7 @@
+{
+  "name": "segmanta-example-application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
