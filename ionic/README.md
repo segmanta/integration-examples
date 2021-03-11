@@ -1,6 +1,8 @@
 # Segmanta Ionic Example
 
-<div style="text-align: center;">![Preview Image](https://github.com/segmanta/integration-examples/blob/master/assets/PreviewAnimation.gif?raw=true)</div>
+<div style="text-align: center;">
+  ![Preview Image](https://github.com/segmanta/integration-examples/blob/master/assets/PreviewAnimation.gif?raw=true)
+</div>
 
 ## Get Started
 
